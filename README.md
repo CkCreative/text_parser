@@ -31,6 +31,15 @@ Contribution
 10. Trump 1000/=
 ```
 
+## Sample output when you run `npm start`
+
+```text
+> parser@1.0.0 start
+> node app.js
+
+Total Contribution:  20,530
+```
+
 ## How you can customise to add any numbers in a text file
 
 You can replace the **/** symbol with any terminating symbol you used. You could even let it find a **$** sign etc.
